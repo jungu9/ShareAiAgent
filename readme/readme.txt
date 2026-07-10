@@ -2,3 +2,5 @@
 
 pip install ollama
 pip install pyodbc
+pip install chromadb
+pip install sentence-transformers
